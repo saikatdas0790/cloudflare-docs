@@ -4,7 +4,7 @@ zone_id = ""
 account_id = ""
 route = ""
 workers_dev = true
-compatibility_date = "2021-11-12"
+compatibility_date = "2021-12-18"
 
 [build]
 command = "npm install && npm run build"
