@@ -1,0 +1,12 @@
+name = "todos"
+type = "javascript"
+
+account_id = "21783118d91fac275d5bc116c37da809"
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2021-12-19"
+
+kv_namespaces = [ 
+  { binding = "TODOS", preview_id = "0097fdbba54445988c6f6c1f7d14473b" }
+]
