@@ -1,0 +1,6 @@
+account_id = "21783118d91fac275d5bc116c37da809"
+name = "i18n-example"
+type = "webpack"
+workers_dev = true
+site = { bucket = "./public" }
+compatibility_date = "2021-12-22"
