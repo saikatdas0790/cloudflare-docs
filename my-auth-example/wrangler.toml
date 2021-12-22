@@ -1,0 +1,9 @@
+account_id = "21783118d91fac275d5bc116c37da809"
+name = "my-auth-example"
+type = "webpack"
+workers_dev = true
+site = { bucket = "./public" }
+compatibility_date = "2021-12-22"
+kv_namespaces = [ 
+  { binding = "AUTH_STORE", id = "c11044fe8adc43e2a4f27c05e38378a9" }
+]
